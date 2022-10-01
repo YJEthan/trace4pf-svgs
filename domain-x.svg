@@ -1,7 +1,7 @@
 <svg viewBox="0 0 100 50" xmlns="http://www.w3.org/2000/svg">
     <style>
         .text{
-            font: 9px;
+            font: 8px;
         }
     </style>
 
@@ -12,6 +12,6 @@
     <rect fill="white"
           x = "77%"
           y = "70%"
-          stroke="black" stroke-width="1" width="23%" height="30%"></rect>
-    <text x="85%" y="96%" class="text">X</text>
+          stroke="black" stroke-width="2" width="23%" height="30%"></rect>
+    <text x="85%" y="97%" class="text">X</text>
 </svg>
