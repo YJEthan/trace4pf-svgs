@@ -10,5 +10,5 @@
           x = "77%"
           y = "75%"
           stroke="black" stroke-width="2" width="23%" height="25%"></rect>
-    <text x="85%" y="96%" class="small">X</text>
+    <text x="85%" y="100%" class="small">X</text>
 </svg>
